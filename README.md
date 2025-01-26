@@ -1,2 +1,3 @@
 # Izabela-Kurtis
-My personal repository
+Hi there !
+I am currently working on something cool! 
